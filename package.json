@@ -1,0 +1,23 @@
+{
+  "name": "yelp",
+  "version": "1.0.0",
+  "description": "A task project",
+  "main": "yelp.js",
+  "scripts": {
+    "test": "node yelp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyanshu-rawat/zomato.git"
+  },
+  "keywords": [
+    "node",
+    "yelp"
+  ],
+  "author": "divyanshu rawat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divyanshu-rawat/zomato/issues"
+  },
+  "homepage": "https://github.com/divyanshu-rawat/zomato#readme"
+}
